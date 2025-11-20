@@ -1,4 +1,6 @@
-### study-of-basic-gates
+### study-of-basic-gates.
+
+**DATE:**17.11.2025
 
 **AIM:** 
 
